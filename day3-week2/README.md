@@ -42,5 +42,5 @@ This challenge was amazing to sharp my 'grid-template-area' skills and work with
 
 ## Author
 
-- Github - [correlucas](https://github.com/M-Soban2002/)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/M-Soban2002)
+- Github - [soban](https://github.com/M-Soban2002/)
+- Frontend Mentor - [@soban](https://www.frontendmentor.io/profile/M-Soban2002)
